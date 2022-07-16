@@ -3,8 +3,8 @@
 
 
 - 📚 Atualmente estou cursando ADS!
-- Estou aprendendo front-end mas quero focar no back-end
-- 🐍 Quero aprender python 
+- Estou aprendendo front-end 
+
 
 <div align="center">
   <a href="https://github.com/fragellii">
